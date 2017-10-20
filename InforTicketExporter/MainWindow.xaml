@@ -6,7 +6,15 @@
         xmlns:local="clr-namespace:InforTicketExporter"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        
-    </Grid>
+    <StackPanel Margin="10,10,10,10">
+        <Label Content="Username:"/>
+        <TextBox x:Name="UsernameTextBox" Text="christopher.manders"/>
+        <Label Content="Password:"/>
+        <PasswordBox x:Name="PasswordTextBox" Password="Epicpassword01"/>
+        <Label Content="Base URL:"/>
+        <TextBox x:Name="BaseURLTextBox" Text="https://crm.crmcloud.infor.com:443/sdata/slx/dynamic/-/"/>
+        <Label Content="API Query:"/>
+        <TextBox x:Name="APIQueryTextBox" Text=""/>
+        <Button Margin="0,10,0,0" Content="Fetch results" Click="FetchResults_Button_Click"/>
+    </StackPanel>
 </Window>

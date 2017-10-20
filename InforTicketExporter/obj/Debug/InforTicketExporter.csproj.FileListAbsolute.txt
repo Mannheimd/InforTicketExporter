@@ -1,0 +1,17 @@
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\obj\Debug\InforTicketExporter.csprojResolveAssemblyReference.cache
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\obj\Debug\MainWindow.g.cs
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\obj\Debug\App.g.cs
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\obj\Debug\InforTicketExporter_MarkupCompile.cache
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\obj\Debug\InforTicketExporter_MarkupCompile.lref
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\bin\Debug\InforTicketExporter.exe.config
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\bin\Debug\InforTicketExporter.exe
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\bin\Debug\InforTicketExporter.pdb
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\obj\Debug\MainWindow.baml
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\obj\Debug\InforTicketExporter.g.resources
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\obj\Debug\InforTicketExporter.Properties.Resources.resources
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\obj\Debug\InforTicketExporter.csproj.GenerateResource.Cache
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\obj\Debug\InforTicketExporter.csproj.CoreCompileInputs.cache
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\obj\Debug\InforTicketExporter.exe
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\obj\Debug\InforTicketExporter.pdb
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\christopher.manders\Documents\Development\Github Repos\InforTicketExporter\InforTicketExporter\bin\Debug\Newtonsoft.Json.xml
